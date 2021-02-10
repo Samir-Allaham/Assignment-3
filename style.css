@@ -1,13 +1,14 @@
-.basketball players{
-font-family:"Times New Roman";
+.basketball players {
+  font-family: "Times New Roman", serif;
 }
 
 #heading {
-  font-family:"Times New Roman";
+  font-family: "Times New Roman", serif;
   color:red;
 }
+
 .kobe {
-  font-family:"Arial";
+  font-family: "Arial", serif;
   color:blue;
 }
 
@@ -19,7 +20,7 @@ div {
 }
 
 .headpage {
-text-align: center;
+  text-align: center;
 }
 
 #basketball {
