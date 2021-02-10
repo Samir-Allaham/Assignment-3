@@ -1,0 +1,30 @@
+.basketball players{
+font-family:"Times New Roman";
+}
+
+#heading {
+  font-family:"Times New Roman";
+  color:red;
+}
+.kobe {
+  font-family:"Arial";
+  color:blue;
+}
+
+div {
+  width: 250px;
+  border: 5px solid green;
+  padding: 5px;
+  margin: auto;
+}
+
+.headpage {
+text-align: center;
+}
+
+#basketball {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
